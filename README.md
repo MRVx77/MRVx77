@@ -84,13 +84,13 @@ I continuously explore new technologies in the fields of:
 ## Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,redis" />
 </p>
 
 ## Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render,postman,vscode" />
 </p>
 
 ---
@@ -119,7 +119,7 @@ Modern full-stack AI chat platform supporting authentication, conversations, AI 
 
 | Metric | Details |
 |---------|---------|
-| Stack | Next.js, TypeScript, PostgreSQL, Prisma |
+| Stack | Next.js, TypeScript, PostgreSQL, PERN |
 | Scale | Multi-user architecture |
 | Performance | Optimized API workflows |
 | Security | Authentication & Authorization |
@@ -210,11 +210,14 @@ Building modern web applications while continuously improving software engineeri
 - AI-powered application integration
 
 ### Skills
-
-`Next.js`
+`HTML`
+`CSS`
+`JavaScript`
 `TypeScript`
+`Next.js`
 `React`
 `Node.js`
+`Redis`
 `PostgreSQL`
 `MongoDB`
 `Prisma`
@@ -279,6 +282,7 @@ Building modern web applications while continuously improving software engineeri
 </a>
 
 </div>
+<img src="https://leetcard.jacoblin.cool/MR_V_77?theme=dark&font=Nunito"/>
 
 ---
 
