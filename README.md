@@ -84,13 +84,13 @@ I continuously explore new technologies in the fields of:
 ## Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,redis,rabbitmq" />
 </p>
 
 ## Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode" />
 </p>
 
 ---
